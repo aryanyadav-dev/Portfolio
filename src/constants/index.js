@@ -47,8 +47,6 @@ import {
   SiTypescript,
   SiSpringboot,
   SiNodedotjs,
-  SiSelenium,
-  SiJson,
   SiOpencv,
   SiDocker,
   SiSqlite,
@@ -70,7 +68,7 @@ import {
 import {DiCss3, DiDocker, DiJava, DiSqllite} from "react-icons/di";
 
 export const resumeLink = "https://drive.google.com/file/d/1CcRN-Szj7S-coyPq6IaI7RDwXnyK5hbY/view?usp=sharing";
-export const repoLink = "https://github.com/mittal-parth/personal-portfolio";
+export const repoLink = "https://github.com/aryanyadav-dev/Portfolio";
 
 export const callToAction = "https://www.linkedin.com/in/-aryanyadav/";
 
@@ -366,8 +364,8 @@ export const projects = [
       },
       {
         id: "icon-5",
-        icon: IoMdFlask,
-        name: "Flask"
+        icon: SiDocker,
+        name: "Docker"
       },
       {
         id: "icon-6",
@@ -386,28 +384,33 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: SiPython,
-        name: "Python"
+        icon: SiReact,
+        name: "ReactJS"
       },
       {
         id: "icon-2",
-        icon: SiSelenium,
-        name: "Selenium"
+        icon: SiNextdotjs,
+        name: "NextJS"
       },
       {
         id: "icon-3",
-        icon: SiNextdotjs,
-        name: "Next.js"
+        icon: SiTypescript,
+        name: "TypeScript"
       },
       {
         id: "icon-4",
-        icon: SiPostman,
-        name: "Postman"
+        icon: SiJavascript,
+        name: "JavaScript"
       },
       {
         id: "icon-5",
-        icon: SiJson,
-        name: "JSON"
+        icon: SiMongodb,
+        name: "MongoDB"
+      },
+      {
+        id: "icon-6",
+        icon: DiCss3,
+        name: "CSS"
       },
     ],
   },
@@ -541,13 +544,13 @@ export const projects = [
       },
       {
         id: "icon-7",
-        icon: SiDjango,
-        name: "Django"
+        icon: SiMysql,
+        name: "MySQL"
       },
       {
         id: "icon-8",
-        icon: SiMongodb,
-        name: "MongoDB"
+        icon: SiVercel,
+        name: "Vercel"
       },
     ],
   },
@@ -650,8 +653,8 @@ export const projects = [
       },
       {
         id: "icon-3",
-        icon: SiNodedotjs,
-        name: "NodeJS"
+        icon: SiExpress,
+        name: "ExpressJS"
       },
       {
         id: "icon-4",
