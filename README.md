@@ -1,7 +1,5 @@
 <h1 align="center"> Personal Portfolio </h1>
 
-### Deployed link: https://aryanyadav-portfolio.vercel.app/
-
 ## Table of Contents 📁
 
 1. [Tech Stack](#tech-stack-)
