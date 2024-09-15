@@ -1,6 +1,6 @@
 <h1 align="center"> Personal Portfolio </h1>
 
-### Deployed link: 
+### Deployed link: https://aryanyadav-portfolio.vercel.app/
 
 ## Table of Contents 📁
 
