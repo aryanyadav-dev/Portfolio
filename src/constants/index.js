@@ -67,7 +67,7 @@ import {
 
 import {DiCss3, DiDocker, DiJava, DiSqllite} from "react-icons/di";
 
-export const resumeLink = "https://drive.google.com/file/d/1CcRN-Szj7S-coyPq6IaI7RDwXnyK5hbY/view?usp=sharing";
+export const resumeLink = "https://drive.google.com/file/d/1nCpbwdgbjqqxTsbnhi3DXu7eO3Hqt_ur/view?usp=sharing";
 export const repoLink = "https://github.com/aryanyadav-dev/Portfolio";
 
 export const callToAction = "https://www.linkedin.com/in/-aryanyadav/";
