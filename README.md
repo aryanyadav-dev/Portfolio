@@ -42,36 +42,6 @@
 - Extra Curricular
 - Contact Me
 
-## Using as a theme ✨
-
-### Code changes
-
-Three main things have to be changed to customize it your way (please open an issue if you find more such instances):
-
-1. Personal Information
-
-- [/src/constants/index.js](https://github.com/mittal-parth/personal-portfolio/blob/main/src/constants/index.js) contains all the personal information one needs to change. Each website section is written as a JavaScript object and is pretty intuitive to change.
-
-- Icons
-  - Whenever you want to use an icon, you'll have to make sure that the icon is imported.
-  - Head to [https://react-icons.github.io/react-icons/search](https://react-icons.github.io/react-icons/search) and search for the desired icon. (Eg: SiReact for ReactJS)
-  - Note the package it belongs to (Eg: 'Si' here)
-  - Import the icon into [`/src/constants/index.js`](https://github.com/mittal-parth/personal-portfolio/blob/main/src/constants/index.js) (Eg: `import { ... SiReact, } from "react-icons/si";` here)
-
-2. Website title and icon
-
-- Go to [`index.html`](https://github.com/mittal-parth/personal-portfolio/blob/main/index.html) and change the [`title`](https://github.com/mittal-parth/personal-portfolio/blob/main/index.html#L7") to your name.
-- Also, change the link to the title [icon](https://github.com/mittal-parth/personal-portfolio/blob/main/index.html#L5)
-
-3. Assets
-
-- Add any assets (images) to the [`assets`](https://github.com/mittal-parth/personal-portfolio/tree/main/src/assets) folder.
-- Import the asset and export it using the[`/src/assets/index.js`](https://github.com/mittal-parth/personal-portfolio/blob/main/src/assets/index.js) file.
-
-### Deployment
-
-You can use [Netlify](https://docs.netlify.com/) to deploy your site. Follow the instructions in their docs to do so.
-
 ## Installation Guide 🧑‍💻
 
 ### Using Git and Github
@@ -90,8 +60,6 @@ You can use [Netlify](https://docs.netlify.com/) to deploy your site. Follow the
 - `npm run dev`
 
 <br/>
-
-#### If you found this repo helpful in anyway, considering giving it a star - it would mean the world to me! 🌟
 
 ## Illustrations 🖼️
 
