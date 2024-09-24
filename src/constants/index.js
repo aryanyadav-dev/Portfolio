@@ -377,7 +377,7 @@ export const projects = [
   {
     id: "project-2",
     title: "Linklace - SaaS Social Network",
-    github:"icon: AiFillGithub",
+    github:"https://github.com/aryanyadav-dev/Linklace-social-app",
     image: linklace,
     content:
       "Built a Full Stack SaaS App that facilitates user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search etc.",
