@@ -5,7 +5,7 @@ import {
   vercel,
   blockchain,
   postal,
-  smarthealth,
+  space,
   llm,
   linklace,
   sih,
@@ -55,6 +55,7 @@ import {
   SiGooglemaps,
   SiGraphql,
   SiPrisma,
+  SiKeras,
 } from "react-icons/si";
 
 import {
@@ -601,21 +602,21 @@ export const projects = [
   },
   {
     id: "project-7",
-    title: "SmartHealth AI",
-    github: "https://github.com/aryanyadav-dev/SmartHealth-AI",
-    image: smarthealth,
+    title: "Spectroscopic Analysis of Celestial Objects",
+    github:"icon: AiFillGithub",
+    image: space,
     content:
-      "Built a Streamlit app that uses GPT-3.5-turbo to analyze medical images and answer health questions. It supports translation, finds nearby clinics via Google Maps, and simplifies complex medical terms. Users also see random health quotes for inspiration.",
+      "Developed a Deep learning model using TensorFlow and Keras to classify synthetic spectral data from celestial objects, including stars, galaxies, and nebulae. Utilizing a Convolutional Neural Network (CNN), the model analyzes spectroscopic features and achieves high accuracy in predicting object classifications.",
     stack: [
       {
         id: "icon-1",
-        icon: SiStreamlit,
-        name: "Streamlit"
+        icon: SiTensorflow,
+        name: "Tensorflow"
       },
       {
         id: "icon-2",
-        icon: SiOpenai,
-        name: "OpenAI"
+        icon: SiKeras,
+        name: "Keras"
       },
       {
         id: "icon-3",
@@ -624,13 +625,8 @@ export const projects = [
       },
       {
         id: "icon-4",
-        icon: SiFirebase,
+        icon: SiMongodb,
         name: "Firebase"
-      },
-      {
-        id: "icon-5",
-        icon: SiGooglemaps,
-        name: "Google Maps"
       },
     ],
   },

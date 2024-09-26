@@ -15,7 +15,7 @@ import opensource from "./opensource.jpg";
 import vercel from "./vercel.png";
 import blockchain from "./blockchain.png";
 import postal from "./postal.png";
-import smarthealth from "./smarthealth.png";
+import space from "./space.png";
 import llm from "./llm.png";
 import linklace from "./linklace.png";
 import tis from "./tis.jpeg";
@@ -39,7 +39,7 @@ export {
   profilePic,
   blockchain,
   postal,
-  smarthealth,
+  space,
   llm,
   linklace,
   tis,
