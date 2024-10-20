@@ -171,16 +171,6 @@ export const skills = [
         name: "C",
       },
       {
-        id: "pl-8",
-        icon: SiKotlin,
-        name: "Kotlin",
-      },
-      {
-        id: "pl-9",
-        icon: SiSwift,
-        name: "Swift",
-      },
-      {
         id: "pl-10",
         icon: SiTypescript,
         name: "TypeScript",
