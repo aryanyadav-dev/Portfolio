@@ -547,11 +547,11 @@ export const projects = [
   },
   {
     id: "project-6",
-    title: "Vercel AWS Clone",
+    title: "Screenshot to Code",
     github: "https://github.com/aryanyadav-dev/Vercel-clone-app",
     image: vercel,
     content:
-      "Created a Vercel clone using Node.js, JavaScript, and Docker with a backend that includes Express, Redis & AWS Tools .",
+      "Screenshot to Code is a web application designed to convert screenshots into editable code using a modern tech stack that includes Docker, Python, HTML, TypeScript, and JavaScript. The backend, powered by Python, processes image uploads and extracts relevant code snippets, while the frontend, built with TypeScript and HTML, provides an intuitive user interface for seamless interactions. Docker ensures easy deployment and consistent environment management, making the application both scalable and efficient for developers looking to streamline their coding process.",
     stack: [
       {
         id: "icon-1",
@@ -575,8 +575,8 @@ export const projects = [
       },
       {
         id: "icon-5",
-        icon: SiPostman,
-        name: "Postman"
+        icon: SiPython,
+        name: "Python"
       },
       {
         id: "icon-6",
