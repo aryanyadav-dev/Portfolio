@@ -551,7 +551,7 @@ export const projects = [
     github: "https://github.com/aryanyadav-dev/Vercel-clone-app",
     image: vercel,
     content:
-      "Screenshot to Code is a web application that converts screenshots into editable code using Docker, Python, HTML, TypeScript, and JavaScript. The Python backend processes image uploads to extract code snippets, while the TypeScript and HTML frontend offers an intuitive user interface. Docker enables easy deployment and consistent environment management, streamlining the coding process for developers.",
+      "Screenshot to Code is a web application that converts screenshots into editable code using Docker, Python, HTML, TypeScript, and JavaScript. The Python backend extracts code snippets from image uploads, while the TypeScript and HTML frontend provides an intuitive interface. Docker ensures easy deployment and consistent environment management for developers.",
     stack: [
       {
         id: "icon-1",
