@@ -548,10 +548,10 @@ export const projects = [
   {
     id: "project-6",
     title: "Screenshot to Code",
-    github: "https://github.com/aryanyadav-dev/Vercel-clone-app",
+    github: "https://github.com/aryanyadav-dev/ss-to-code",
     image: vercel,
     content:
-      "Screenshot to Code is a web application that converts screenshots into editable code using Docker, Python, HTML, TypeScript, and JavaScript. The Python backend extracts code snippets from image uploads, while the TypeScript and HTML frontend provides an intuitive interface. Docker ensures easy deployment and consistent environment management for developers.",
+      "Developed a web application that converts screenshots into editable code using Docker, Python, HTML, TypeScript, and JavaScript. The Python backend extracts code snippets from image uploads, while the TypeScript and HTML frontend provides an intuitive interface. Docker ensures easy deployment and consistent environment management for developers.",
     stack: [
       {
         id: "icon-1",
@@ -575,8 +575,8 @@ export const projects = [
       },
       {
         id: "icon-5",
-        icon: SiPython,
-        name: "Python"
+        icon: SiReact,
+        name: "ReactJS"
       },
       {
         id: "icon-6",
