@@ -551,7 +551,7 @@ export const projects = [
     github: "https://github.com/aryanyadav-dev/ss-to-code",
     image: vercel,
     content:
-      "Developed a web application that converts screenshots into editable code using Docker, Python, HTML, TypeScript, and JavaScript. The Python backend extracts code snippets from image uploads, while the TypeScript and HTML frontend provides an intuitive interface. Docker ensures easy deployment and consistent environment management for developers.",
+      "Developed a web application that helps you code your ideas effortlessly by uploading screenshots and screen recordings and convert them into full stack coded applications built using ReactJS, Javascript and Typescript. Docker ensures easy deployment and consistent environment management for developers.",
     stack: [
       {
         id: "icon-1",
