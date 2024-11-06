@@ -593,7 +593,7 @@ export const projects = [
   {
     id: "project-7",
     title: "Spectroscopic Analysis of Celestial Objects",
-    github:"icon: AiFillGithub",
+    github:"https://github.com/aryanyadav-dev/celestial-spectroscopy",
     image: space,
     content:
       "Developed a Deep learning model using TensorFlow and Keras to classify synthetic spectral data from celestial objects, including stars, galaxies, and nebulae. Utilizing a Convolutional Neural Network (CNN), the model analyzes spectroscopic features and achieves high accuracy in predicting object classifications.",
