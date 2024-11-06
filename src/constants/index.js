@@ -507,7 +507,7 @@ export const projects = [
   },
   {
     id: "project-5",
-    title: "Syncore - Startup Management System",
+    title: "StackX - Startup Management System",
     github:"icon: AiFillGithub",
     image: startup,
     content:
