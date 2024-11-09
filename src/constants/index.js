@@ -403,6 +403,11 @@ export const projects = [
         icon: DiCss3,
         name: "CSS"
       },
+      {
+        id: "icon-7",
+        icon: SiPrisma,
+        name: "Prisma"
+      }
     ],
   },
   {
