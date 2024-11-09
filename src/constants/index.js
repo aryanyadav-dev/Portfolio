@@ -367,11 +367,11 @@ export const projects = [
   },
   {
     id: "project-2",
-    title: "Linklace - SaaS Social Network",
-    github:"https://github.com/aryanyadav-dev/Linklace-social-app",
+    title: "ScrapeFlow - Workflow SaaS App",
+    github:"icon: AiFillGithub",
     image: linklace,
     content:
-      "Built a Full Stack SaaS App that facilitates user interaction to community management, technical implementation, and various features, including nested deep comments, notifications, real-time-search etc.",
+      "Built a Full Stack SaaS App that lets users build web scrapers visually using Workflow Builder powered by AI with a credential and scheduling system.",
     stack: [
       {
         id: "icon-1",
