@@ -628,7 +628,7 @@ export const projects = [
   {
     id: "project-8",
     title: "Open Source Contribution Tracker",
-    github:"icon: AiFillGithub",
+    github:"https://github.com/aryanyadav-dev/Opensource-contri-tracker",
     image: opensource,
     content: "Developed a web app for users to search open-source repositories, track contributions, and receive personalized project recommendations. Users can link GitHub accounts, search by language, stars, or contributors, and get tailored suggestions based on their skills and interests.",
     stack: [
