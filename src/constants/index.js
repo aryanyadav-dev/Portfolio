@@ -368,7 +368,7 @@ export const projects = [
   {
     id: "project-2",
     title: "ScrapeFlow - Workflow SaaS App",
-    github:"icon: AiFillGithub",
+    github:"https://github.com/aryanyadav-dev/scrapeflow-SaaS",
     image: linklace,
     content:
       "Built a Full Stack SaaS App that lets users build web scrapers visually using Workflow Builder powered by AI with a credential and scheduling system.",
