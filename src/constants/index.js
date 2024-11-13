@@ -627,10 +627,10 @@ export const projects = [
   },
   {
     id: "project-8",
-    title: "Open Source Contribution Tracker",
-    github:"https://github.com/aryanyadav-dev/Opensource-contri-tracker",
+    title: "DevOverflow",
+    github:"https://github.com/aryanyadav-dev/devoverflow",
     image: opensource,
-    content: "Developed a web app for users to search open-source repositories, track contributions, and receive personalized project recommendations. Users can link GitHub accounts, search by language, stars, or contributors, and get tailored suggestions based on their skills and interests.",
+    content: "Developed a Full-stack application featuring an array of powerful functionalities to enhance your developer community experience and designed to be a comprehensive platform for developers to ask questions, share knowledge, and engage in a thriving community.",
     stack: [
       {
         id: "icon-1",
@@ -644,8 +644,8 @@ export const projects = [
       },
       {
         id: "icon-3",
-        icon: SiExpress,
-        name: "ExpressJS"
+        icon: SiTypescript,
+        name: "Typescript"
       },
       {
         id: "icon-4",
@@ -654,11 +654,6 @@ export const projects = [
       },
       {
         id: "icon-5",
-        icon: SiGraphql,
-        name: "GraphQL"
-      },
-      {
-        id: "icon-6",
         icon: SiVercel,
         name: "Vercel"
       },
