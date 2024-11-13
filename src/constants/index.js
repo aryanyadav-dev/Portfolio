@@ -371,7 +371,7 @@ export const projects = [
     github:"https://github.com/aryanyadav-dev/scrapeflow-SaaS",
     image: linklace,
     content:
-      "Built a Full Stack SaaS App that lets users build web scrapers visually using Workflow Builder powered by AI with a credential and scheduling system.",
+      "Built a Full Stack SaaS App that lets users build web scrapers visually using Workflow Builder powered by AI with a credential and scheduling system. This application allows users to create modify and delete workflows through a drag drop interface with integration of AI which streamlines the scraping process.",
     stack: [
       {
         id: "icon-1",
