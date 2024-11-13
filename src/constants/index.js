@@ -630,7 +630,7 @@ export const projects = [
     title: "DevOverflow",
     github:"https://github.com/aryanyadav-dev/devoverflow",
     image: opensource,
-    content: "Developed a Full-stack application featuring an array of powerful functionalities to enhance your developer community experience and designed to be a comprehensive platform for developers to ask questions, share knowledge, and engage in a thriving community.",
+    content: "Developed a Full-stack application featuring an array of powerful functionalities to enhance your developer community experience and designed to be a comprehensive platform for developers to ask questions, share knowledge, and engage in a thriving community with AI integration to solve problems.",
     stack: [
       {
         id: "icon-1",
