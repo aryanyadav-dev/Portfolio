@@ -627,10 +627,10 @@ export const projects = [
   },
   {
     id: "project-8",
-    title: "DevOverflow",
-    github:"https://github.com/aryanyadav-dev/devoverflow",
+    title: "Open Source Contribution Tracker",
+    github:"https://github.com/aryanyadav-dev/Opensource-contri-tracker",
     image: opensource,
-    content: "Developed a Full-stack application featuring an array of powerful functionalities to enhance your developer community experience and designed to be a comprehensive platform for developers to ask questions, share knowledge, and engage in a thriving community with AI integration to solve problems.",
+    content: "Developed a web app for users to search open-source repositories, track contributions, and receive personalized project recommendations. Users can link GitHub accounts, search by language, stars, or contributors, and get tailored suggestions based on their skills and interests.",
     stack: [
       {
         id: "icon-1",
