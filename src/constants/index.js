@@ -331,7 +331,7 @@ export const projects = [
     github: "https://github.com/aryanyadav-dev/LLM-aggregator",
     image: llm,
     content:
-      "Developed a Flask-based web app integrating GPT-4, PaLM, Claude, Bard, BERT, and GPT-2 for response generation. Features include sentiment analysis, voice input processing, real-time database management, OAuth 2.0 email notifications, and caching for performance optimization.",
+      "Developed a Flask-based web app integrating GPT-4, LLaMa, Claude, Bard, Gemini, and GPT-2 for response generation. Features include sentiment analysis, voice input processing, real-time database management, OAuth 2.0 email notifications, and caching for performance optimization.",
     stack: [
       {
         id: "icon-1",
