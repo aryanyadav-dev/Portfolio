@@ -335,8 +335,8 @@ export const projects = [
     stack: [
       {
         id: "icon-1",
-        icon: SiReact,
-        name: "React"
+        icon: SiNextdotjs,
+        name: "NextJS"
       },
       {
         id: "icon-2",
@@ -355,8 +355,8 @@ export const projects = [
       },
       {
         id: "icon-5",
-        icon: SiDocker,
-        name: "Docker"
+        icon: SiTypescript,
+        name: "Typescript"
       },
       {
         id: "icon-6",
