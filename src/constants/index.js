@@ -627,10 +627,10 @@ export const projects = [
   },
   {
     id: "project-8",
-    title: "Open Source Contribution Tracker",
-    github:"https://github.com/aryanyadav-dev/Opensource-contri-tracker",
+    title: "Researchsight App",
+    github:"https://github.com/aryanyadav-dev/researchsight-app",
     image: opensource,
-    content: "Developed a web app for users to search open-source repositories, track contributions, and receive personalized project recommendations. Users can link GitHub accounts, search by language, stars, or contributors, and get tailored suggestions based on their skills and interests.",
+    content: "Developed a streamlit web app for users to get comprehensive research insights with links to the research papers about a topic and provide with a mindmap brief of the research.",
     stack: [
       {
         id: "icon-1",
@@ -654,8 +654,13 @@ export const projects = [
       },
       {
         id: "icon-5",
-        icon: SiVercel,
-        name: "Vercel"
+        icon: SiPython,
+        name: "Python"
+      },
+      {
+        id: "icon-6",
+        icon: SiStreamlit,
+        name: "Streamlit"
       },
     ],
   },
