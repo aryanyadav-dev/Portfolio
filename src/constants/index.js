@@ -363,6 +363,11 @@ export const projects = [
         icon: FaAws,
         name: "AWS"
       },
+      {
+        id: "icon-8",
+        icon: SiVercel,
+        name: "Vercel"
+      },
     ],
   },
   {
@@ -543,11 +548,6 @@ export const projects = [
         icon: SiMysql,
         name: "MySQL"
       },
-      {
-        id: "icon-8",
-        icon: SiVercel,
-        name: "Vercel"
-      },
     ],
   },
   {
@@ -621,7 +621,7 @@ export const projects = [
       {
         id: "icon-4",
         icon: SiMongodb,
-        name: "Firebase"
+        name: "MongoDB"
       },
     ],
   },
@@ -649,16 +649,11 @@ export const projects = [
       },
       {
         id: "icon-4",
-        icon: SiMongodb,
-        name: "MongoDB"
-      },
-      {
-        id: "icon-5",
         icon: SiPython,
         name: "Python"
       },
       {
-        id: "icon-6",
+        id: "icon-5",
         icon: SiStreamlit,
         name: "Streamlit"
       },
