@@ -630,7 +630,7 @@ export const projects = [
     title: "Researchsight App",
     github:"https://github.com/aryanyadav-dev/researchsight-app",
     image: opensource,
-    content: "Developed a streamlit web app for users to get comprehensive research insights with links to the research papers about a topic and provide with a mindmap brief of the research.",
+    content: "Developed a streamlit web application for users to get comprehensive research insights with links to the research papers about a topic and provide with a mindmap brief of the research via research websites scraping and AI integration.",
     stack: [
       {
         id: "icon-1",
@@ -656,6 +656,11 @@ export const projects = [
         id: "icon-5",
         icon: SiStreamlit,
         name: "Streamlit"
+      },
+      {
+        id: "icon-6",
+        icon: SiOpenai,
+        name: "OpenAI API"
       },
     ],
   },
