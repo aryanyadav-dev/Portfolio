@@ -56,6 +56,8 @@ import {
   SiGraphql,
   SiPrisma,
   SiKeras,
+  SiHibernate,
+  SiJquery,
 } from "react-icons/si";
 
 import {
@@ -517,16 +519,16 @@ export const projects = [
   },
   {
     id: "project-5",
-    title: "StackX - Startup Management System",
+    title: "Filmmaking Post-Production Workflow Manager",
     github:"icon: AiFillGithub",
     image: startup,
     content:
-      "Built a comprehensive SaaS platform that empowers agencies and their sub-accounts to create and manage unlimited funnels, websites, and payments. It offers robust features like role-based access, Razorpay integration, custom dashboards, and performance tracking to streamline operations and drive growth.",
+      "Built a comprehensive platform to manage the post-production workflow, including editing schedules, file tracking, and resource allocation.",
     stack: [
       {
         id: "icon-1",
-        icon: SiNextdotjs,
-        name: "NextJS"
+        icon: SiReact,
+        name: "ReactJS"
       },
       {
         id: "icon-2",
@@ -535,8 +537,8 @@ export const projects = [
       },
       {
         id: "icon-3",
-        icon: SiPrisma,
-        name: "Prisma"
+        icon: SiSpringboot,
+        name: "Spring Boot"
       },
       {
         id: "icon-4",
@@ -544,9 +546,14 @@ export const projects = [
         name: "TypeScript"
       },
       {
-        id: "icon-7",
-        icon: SiMysql,
-        name: "MySQL"
+        id: "icon-5",
+        icon: SiJquery,
+        name: "Jquery"
+      },
+      {
+        id: "icon-6",
+        icon: SiHibernate,
+        name: "Hibernate"
       },
     ],
   },
