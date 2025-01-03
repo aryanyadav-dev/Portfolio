@@ -520,7 +520,7 @@ export const projects = [
   {
     id: "project-5",
     title: "Filmmaking Post-Production Workflow Manager",
-    github:"icon: AiFillGithub",
+    github:"https://github.com/aryanyadav-dev/post-prod-filmmaking-workflow",
     image: startup,
     content:
       "Built a comprehensive platform to manage the post-production workflow, including editing schedules, file tracking, and resource allocation.",
